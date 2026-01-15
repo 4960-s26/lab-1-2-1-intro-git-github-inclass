@@ -1,0 +1,19 @@
+Git Reference Guide – Konstandinos Caushi
+
+LearnGitBranching Progress:
+- Main > Introduction Sequence (Completed)
+- Remote > Push & Pull (Completed)
+
+Commands I learned:
+
+git status        – show file and repo status
+git add <file>    – stage a file
+git commit -m ""  – create a commit
+git branch        – list branches
+git checkout <b>  – switch branches
+git merge <b>     – merge branch into current branch
+git push          – upload to GitHub
+git pull          – download from GitHub
+git fetch         – fetch remote updates
+
+I completed all required levels in LearnGitBranching
